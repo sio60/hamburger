@@ -1,5 +1,6 @@
 
 .logo{
+border-radius: 15px;
 display: flex;
 padding: 2%;
 background: rgb(236, 183, 85);
