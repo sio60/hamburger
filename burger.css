@@ -8,6 +8,7 @@ background: rgb(236, 183, 85);
 .logo img{
     display: flex;
     width: 5%;
+    height: 5%;
 }
 .logo-menu{
     display: flex;
