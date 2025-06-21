@@ -1,0 +1,22 @@
+
+.logo{
+display: flex;
+padding: 2%;
+background: rgb(236, 183, 85);
+}
+.logo img{
+    display: flex;
+    width: 5%;
+}
+.logo-menu{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    gap: 70px;
+    list-style: none;
+}
+.logo-menu a{
+    font-size: 70px;
+    color: rgb(138, 88, 8);
+    text-decoration: none;
+}
